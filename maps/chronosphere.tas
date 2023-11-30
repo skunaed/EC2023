@@ -1,0 +1,193 @@
+console load ExpertContest2023/1-Submissions/Chronosphere 48 152
+   1
+
+#start
+  36
+
+#spinner cycle
+   0
+
+#lvl_00
+
+  13,R,J
+  17,R,Z
+   5,R,J
+  15,R,D,X
+   2,R
+   1,R,D,J
+  14,R,D,X
+   1,R,J
+   5,R
+  40
+
+#lvl_01
+   2,R
+  13,R,J
+  15,R,X
+  51,R,G
+   7,U,G
+  14,R,D,X
+  22,R,J
+  12,U,X
+  16,R,J
+  14,R,Z
+   3,R,J
+  15,R,D,X
+   7,R
+  27,R,D
+   1,R,J
+   9,R,D,X
+   1,R,J
+   1,R
+  40
+
+#lvl_02
+   6,R
+  14,R,J
+  17,R,Z
+   1,R,J
+  15,R,D,X
+   4,R
+   6,R,D
+   1,R
+   8,R,J
+   7,R
+   1,R,G
+  50,R,U,G
+  28,G
+  22,D,G
+  11,R,G
+  13,R,D,X
+  10,R,J
+   2,R
+   2,R,J
+   9,R
+   1,R,J
+  13,R,D,X
+   2,R,J
+   6,R,U,X
+  40
+
+#lvl_03
+   6,R,U,X
+   1,L,J,G
+  12,R
+   1,R,G
+   5,U,G
+  41,G
+   1,R,J,G
+   3,R,K,G
+   1,R,J,G
+   3,R
+  15,R,D,X
+   1,R,D,J
+  14,R
+   8,R,J
+stunpause
+   2,R,J
+   3,R
+skipinput 3 1
+  10,R,U,Z
+endstunpause
+   4,R,U,Z
+  10,R,J,G
+  40
+
+#lvl_04
+   9,R,J
+  15,R,D,X
+   4,R
+   5,R,D
+  10,R,D,J
+   5,R
+   8,R,J
+  15,R,D,X
+   5,D
+   7,R,D
+   1,R,D,J
+   6,J
+  40
+
+#lvl_05
+   6,J
+  13,U,X
+  32,R,J
+  10,R,D,X
+   2,R,J
+   3,R
+  23,R,D,X
+  12,R,D,C
+  28,R,J
+  12,U,X
+  15,R,J
+  32,R
+   4,R,Z
+   1,R,J
+   6,R
+   4,R,J
+  15,R,D,X
+   7,R
+  12,R,D
+  14,R,D,X
+  21,R,J
+  10,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   4,R
+  40
+
+#lvl_06
+   3,R
+   5,R,J
+   1,J
+   2,R,J
+  13,K,G
+  18,R,X
+   1,R,G
+  40,G
+   6,U,G
+   1,R,J,G
+   1,R,K,G
+   2,R,J,G
+   1,R,K,G
+   5,R
+  15,R,D,X
+   9,R,D,J
+  15,R,D,X
+  18,R
+   5,R,D
+   4,R,D,J
+  10,R
+   1,R,G
+  44,G
+   2,U,G
+   1,R,J,G
+   1,R,K,G
+   2,R,J,G
+   9,R,K,G
+  18,R
+   1,R,J
+  18
+  12,J
+  23
+   4,R,Z
+   1,R,J
+   8,R
+   2,R,J
+  14,R
+   3,R,J
+  15,R
+   2,L,G
+   1,J,G
+   1,K,G
+   3,J,G
+   9
+  42,R,D
+  30,R
+
+#lvl_07
+  16,U,X
+ 135
+
+chaptertime:
